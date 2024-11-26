@@ -1,0 +1,21 @@
+html{
+    background-color: black;
+}
+div{
+    width: 50%;
+    margin-left: 25%;
+    text-align: center;
+    font-family: cursive;
+    
+}
+#img{
+    width: 100%;
+    border: 5px white solid;
+    margin-top: 100px;
+}
+#heading{
+    color: white;
+}
+#para{
+    color: white;
+}
